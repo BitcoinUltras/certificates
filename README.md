@@ -1,15 +1,15 @@
-Bitcoin Centurion (1 of 1) Proof -of-Sale
-Address: 1LLgPrbLuPNepHxELDhoor9iuiyGsaP7nj
-Filename: centurion-swehodl.pdf
-Sha256 checksum: 13ee6d644ae1f80595ec600a5e344d737ffb0abfdaf3a9d24a1b5cc2e8e022e5
-Message:
-
-Art Type: Original drawing
-Art ID: Bitcoin Centurion (1 of 1)
-Buyer ID: @swehodl
-Sold on: June 1, 2021
-Sold at: bitcoinfinearts.com
-TXID: DDD7F3104B34B4CB48B3AD0F35BC734A 4BDA16578B532CE5AC6B8DF816D89962
+Bitcoin Centurion (1 of 1) Proof -of-Sale   
+Address: 1LLgPrbLuPNepHxELDhoor9iuiyGsaP7nj  
+Filename: centurion-swehodl.pdf  
+Sha256 checksum: 13ee6d644ae1f80595ec600a5e344d737ffb0abfdaf3a9d24a1b5cc2e8e022e5  
+Message:  
+  
+Art Type: Original drawing  
+Art ID: Bitcoin Centurion (1 of 1)  
+Buyer ID: @swehodl  
+Sold on: June 1, 2021  
+Sold at: bitcoinfinearts.com  
+TXID: DDD7F3104B34B4CB48B3AD0F35BC734A4BDA16578B532CE5AC6B8DF816D89962  
 
 Signature: IFhtAaUO5IGhvdYhpsrsozDI/LBZX7wilxi+JPu8kB7JZXnNkZa26azQkaNGknmTYsUHj9zyGf7XSimqZ/vr/R0=
 
