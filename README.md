@@ -1,4 +1,3 @@
-Posted on August 5, 2021 by bitcoinultras
 Bitcoin Centurion (1 of 1) Proof -of-Sale
 Address: 1LLgPrbLuPNepHxELDhoor9iuiyGsaP7nj
 Filename: centurion-swehodl.pdf
@@ -14,7 +13,6 @@ TXID: DDD7F3104B34B4CB48B3AD0F35BC734A 4BDA16578B532CE5AC6B8DF816D89962
 
 Signature: IFhtAaUO5IGhvdYhpsrsozDI/LBZX7wilxi+JPu8kB7JZXnNkZa26azQkaNGknmTYsUHj9zyGf7XSimqZ/vr/R0=
 
-Posted on February 9, 2021 by bitcoinultras
 Anonymous We Stand (SN0000) Proof -of-Sale
 Address: 1LLgPrbLuPNepHxELDhoor9iuiyGsaP7nj
 Filename: certificate-btcordie-anonymous.pdf
@@ -30,7 +28,6 @@ TXID: a126d74eafd62ae564ab8e36538df8bb247863e8eb777e7d3c186221a592c07f
 
 Signature: H8Cy0GYtx6X3RMpkCdQ5RHT+ILruWaiv7P4Qgoe+RgueagcTRFGKW36tRfFaMWi7eBv/uyFRecs6viO0TR72Sh4=
 
-Posted on February 9, 2021 by bitcoinultras
 Satoshi Working on the Orange Pill SN0000 Proof -of-Sale
 Address: 1LLgPrbLuPNepHxELDhoor9iuiyGsaP7nj
 Filename: certificate-btcordie-satoshi.pdf
@@ -46,7 +43,6 @@ TXID: bf89d35943544d0bed8c7ca223bf6cac6c4152f7655eb36100313ed824a219ca
 
 Signature: IIMy8Ci1aLhQjpMP+TJi46ZN4mNE6P1oPVcktM7xOSmpWVfu78tRAoVm2F1v1sLb/aNaeqRU6PwkhM44vTbSzQI=
 
-Posted on February 9, 2021 by bitcoinultras
 Have Fun Staying Poor — Bitcoin Honey Badger Aviator SN0000 Proof -of-Sale
 Address: 1LLgPrbLuPNepHxELDhoor9iuiyGsaP7nj
 Filename: certificate-stacking.pdf
@@ -62,7 +58,6 @@ TXID: 96a4c29fd5e41dc72f9fc1409c53f4bdb2c8b2bdeb9da52809373ee176926328
 
 Signature: ICS4pgM0LlrznlZXY5c4nTh9AdWJ3wWsESi+rTYMM8G8LpwOjRR2PaQYW8fRwsFqPVzvDTLbggzAOWhuusC5Dj8=
 
-Posted on January 21, 2021 by bitcoinultras
 Bitcoin Bull SN0000 Proof -of-Sale
 Address: 15317wAK5uGAm3szSD6T7SC8xprReyJ34C
 Filename: certificate-linetrav.pdf
